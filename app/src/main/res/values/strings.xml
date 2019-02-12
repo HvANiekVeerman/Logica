@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Logica</string>
+    <string name="textView1">Conjunction (AND)</string>
+    <string name="Ltextview1">A</string>
+    <string name="Ltextview2">B</string>
+    <string name="Ltextview3">A^B</string>
+    <string name="LtextView4">T</string>
+    <string name="LtextView5">T</string>
+    <string name="LtextView6">T</string>
+    <string name="LtextView7">F</string>
+    <string name="LtextView8">F</string>
+    <string name="LtextView9">T</string>
+    <string name="LtextView10">F</string>
+    <string name="LtextView11">F</string>
+    <string name="button">SUBMIT</string>
+    <string name="emptyAnswers">Not all answers are filled in...</string>
+    <string name="correctAnswers">You\'re right!</string>
+    <string name="incorrectAnswers">Your answer is wrong.</string>
+    <string name="T">T</string>
+    <string name="F">F</string>
+</resources>
